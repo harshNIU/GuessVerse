@@ -1,0 +1,6 @@
+{
+  "name": "Bollywood Guess - Multiplayer Party Game",
+  "description": "The ultimate real-time multiplayer Bollywood guessing game. Compete across 4 rounds: Movie Frames, Iconic Dialogues, Actress Silhouettes, and Celebrity Eyes Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
